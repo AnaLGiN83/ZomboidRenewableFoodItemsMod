@@ -3,7 +3,7 @@
   DisplayName_Wild_Yeast_Base = "Base de Levure sauvage",
   DisplayName_Jar_of_Yeast = "Pot de Levure",
   DisplayName_Jar_of_Ready_Yeast_(OBSOLETED) = "Pot de Levure",
-  DisplayName_Fermented_World = "Ferment générique",
+  DisplayName_Fermented_World = "Le Monde de la Fermentation",
   
   DisplayName_Sugar_Beet = "Betterave à sucre",
   DisplayName_Sugar_Beet_Seeds = "Graines de Betteraves à sucre",
