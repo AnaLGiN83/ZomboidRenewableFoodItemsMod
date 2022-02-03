@@ -1,0 +1,21 @@
+Recipe_FR = {
+  Recipe_Crush_Small_Salt_Rocks = "Moudre de petites roches de sel",
+  
+  Recipe_Grind_Mushrooms_To_Yeast_Base = "Broyer les champignons pour obtenir une base de levure",
+  Recipe_Make_Yeast = "Créer Levure",
+  Recipe_Open_Yeast_Jar = "Ouvrir Pot de levure",
+  
+  Recipe_Open_Packet_of_Sugar_Beet_Seeds = "Ouvrir Paquet de graines de betterave à sucre",
+  Recipe_Put_Sugar_Beet_Seeds_in_Packet = "Mettre en paquet la betterave à sucre",
+  Recipe_Slice_Sugar_Beets = "Séparer Betterave à sucre",
+  Recipe_Make_Sugar = "Fabriquer Sucre",
+
+  Recipe_Crush_Berries = "Ecraser les baies",
+  Recipe_Ferment_Berries = "Fermenter les baies",
+  Recipe_Make_Vinegar = "Produire Vinaigre",
+
+
+
+
+
+}

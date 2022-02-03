@@ -1,0 +1,3 @@
+ContextMenu_FR = {
+	ContextMenu_ANL_OnEndFermentation = "Extraire les Contenus",
+}
