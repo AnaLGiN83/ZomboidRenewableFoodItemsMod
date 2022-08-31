@@ -1,0 +1,21 @@
+Recipe_PL = {
+  Recipe_Crush_Small_Salt_Rocks = "Kruszenie soli kamiennej",
+  
+  Recipe_Grind_Mushrooms_To_Yeast_Base = "Zmiel grzyby na bazê dro¿d¿ow¹",
+  Recipe_Make_Yeast = "Zrób dro¿dzê",
+  Recipe_Open_Yeast_Jar = "Otwórz S³oik Dro¿dzy",
+  
+  Recipe_Open_Packet_of_Sugar_Beet_Seeds = "Otwórz Worek Nasion Cukrowego Buraka",
+  Recipe_Put_Sugar_Beet_Seeds_in_Packet = "W³ó¿ nasiona Cukrowego Buraka do opakowania",
+  Recipe_Slice_Sugar_Beets = "Pokrój Buraki",
+  Recipe_Make_Sugar = "Zrób Cukier",
+
+  Recipe_Crush_Berries = "Zmia¿dŸ Owoce",
+  Recipe_Ferment_Berries = "Fermentacja Owoców",
+  Recipe_Make_Vinegar = "Zrób Ocet",
+
+
+
+
+
+}

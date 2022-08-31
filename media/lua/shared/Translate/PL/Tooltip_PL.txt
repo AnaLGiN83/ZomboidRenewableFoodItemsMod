@@ -1,0 +1,4 @@
+Tooltip_PL = {
+	Tooltip_ANL_fermentation = "Fermentacja",
+	Tooltip_ANL_fermentationFinished = "Skoñczone",
+}

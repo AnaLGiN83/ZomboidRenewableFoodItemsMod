@@ -1,0 +1,21 @@
+Items_PL = {
+  DisplayName_Small_Salt_Rock = "Ma³y kamieñ solny",
+  DisplayName_Wild_Yeast_Base = "Dzikie Dro¿d¿e",
+  DisplayName_Jar_of_Yeast = "S³oik z dro¿d¿ami przed fermentacj¹",
+  DisplayName_Jar_of_Ready_Yeast_(OBSOLETED) = "S³oik ze sfermentowanymi dro¿d¿ami",
+  DisplayName_Fermented_World = "Œwiat fermentacji",
+  
+  DisplayName_Sugar_Beet = "Burak Cukrowy",
+  DisplayName_Sugar_Beet_Seeds = "Nasiona Buraka",
+  DisplayName_Sugar_Beet_Seeds_Packet = "Pakiet nasion buraka",
+  DisplayName_Sliced_Sugar_Beets = "Worki na nasiona buraka",
+  DisplayName_Dried_Sugar_Beets = "Pokrojone buraki",
+  DisplayName_Handmade_Sugar = "Przepis na cukier",
+
+  DisplayName_Grated_Berries = "Zmia¿d¿one owoce",
+  DisplayName_Jar_Of_Crushed_Berries = "S³oik z pokruszonymi owocami",
+  DisplayName_Jar_Wild_Berry_Wine = "Wino z dzikich owoców",
+  DisplayName_Jar_Of_Vinegar_Base = "S³oik z baz¹ octu",
+
+
+}
