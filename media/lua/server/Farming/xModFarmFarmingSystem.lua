@@ -11,7 +11,6 @@ local stock_harvest = SFarmingSystem.harvest;
 local stock_rottenThis = SPlantGlobalObject.rottenThis;
 
 function SFarmingSystem:growPlant(luaObject, nextGrowing, updateNbOfGrow)
-	print("ANL ENTER SFarmingSystem:growPlant")
 	if(luaObject.state == "seeded") then
 		local new = luaObject.nbOfGrow <= 0
 		if luaObject.typeOfSeed ~= nil then
