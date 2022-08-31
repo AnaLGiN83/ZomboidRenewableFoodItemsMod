@@ -38,6 +38,7 @@ farming_vegetableconf.icons["ANLSugarBeet"] = "Item_SugarBeet";
 -- Sugar Beet
 
 farming_vegetableconf.props["ANLSugarBeet"] = farming_vegetableconf.props["ANLSugarBeet"] or {}
+farming_vegetableconf.props["ANLSugarBeet"].ModFarmCrop = true;
 farming_vegetableconf.props["ANLSugarBeet"].seedsRequired = 4;
 farming_vegetableconf.props["ANLSugarBeet"].texture = "anl_sugarbeet_07";
 farming_vegetableconf.props["ANLSugarBeet"].waterLvl = 45;
@@ -52,6 +53,17 @@ farming_vegetableconf.props["ANLSugarBeet"].maxVeg = 6;
 farming_vegetableconf.props["ANLSugarBeet"].minVegAutorized = 6;
 farming_vegetableconf.props["ANLSugarBeet"].maxVegAutorized = 8;
 farming_vegetableconf.props["ANLSugarBeet"].waterConsumption = 2;
+if (getActivatedMods():contains("Hydrocraft")) then
+	farming_vegetableconf.props["ANLSugarBeet"].waterLvlMax = 100;
+	farming_vegetableconf.props["ANLSugarBeet"].minTemp = 5;
+	farming_vegetableconf.props["ANLSugarBeet"].bestTemp = 15;
+	farming_vegetableconf.props["ANLSugarBeet"].maxTemp = 30;
+	farming_vegetableconf.props["ANLSugarBeet"].plantWithFruit = false;
+	farming_vegetableconf.props["ANLSugarBeet"].damageFromStorm = false;
+	farming_vegetableconf.props["ANLSugarBeet"].multiHarvest = false;
+	farming_vegetableconf.props["ANLSugarBeet"].vegetableName2 = "";
+	farming_vegetableconf.props["ANLSugarBeet"].numberOfVegetables2 = 0;
+end
 
 farming_vegetableconf.sprite["ANLSugarBeet"] = {
 "anl_sugarbeet_0",

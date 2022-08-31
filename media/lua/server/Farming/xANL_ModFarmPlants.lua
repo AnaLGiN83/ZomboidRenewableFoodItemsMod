@@ -28,7 +28,7 @@ ModFarm.growSugarBeet = function(planting, nextGrowing, updateNbOfGrow)
 			planting.hasVegetable = true;
 			planting.hasSeed = true;
 		end
-	elseif (planting.state ~= "rotten") then -- rotten
+	elseif (planting.state ~= "rotten") and (not getActivatedMods():contains("FarmingNeverRot")) then -- rotten
 		planting:rottenThis()
 	end
 
