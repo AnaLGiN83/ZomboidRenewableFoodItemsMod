@@ -1,0 +1,21 @@
+﻿Items_FR = {
+  DisplayName_Small_Salt_Rock = "Petite roche de sel",
+  DisplayName_Wild_Yeast_Base = "Base de Levure sauvage",
+  DisplayName_Jar_of_Yeast = "Pot de Levure",
+  DisplayName_Jar_of_Ready_Yeast_(OBSOLETED) = "Pot de Levure",
+  DisplayName_Fermented_World = "Le Monde de la Fermentation",
+  
+  DisplayName_Sugar_Beet = "Betterave à sucre",
+  DisplayName_Sugar_Beet_Seeds = "Graines de Betteraves à sucre",
+  DisplayName_Sugar_Beet_Seeds_Packet = "Paquet de graines de Betteraves à sucre",
+  DisplayName_Sliced_Sugar_Beets = "Portions de Betterave à sucre",
+  DisplayName_Dried_Sugar_Beets = "Betteraves à sucre séchées",
+  DisplayName_Handmade_Sugar = "Sucre artisanal",
+
+  DisplayName_Grated_Berries = "Baies râpées",
+  DisplayName_Jar_Of_Crushed_Berries = "Pot de Baies écrasées",
+  DisplayName_Jar_Wild_Berry_Wine = "Pot de vin de Baies sauvages",
+  DisplayName_Jar_Of_Vinegar_Base = "Pot de base de Vinaigre",
+
+
+}
