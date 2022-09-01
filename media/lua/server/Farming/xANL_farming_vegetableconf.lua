@@ -64,6 +64,10 @@ if (getActivatedMods():contains("Hydrocraft")) then
 	farming_vegetableconf.props["ANLSugarBeet"].vegetableName2 = "";
 	farming_vegetableconf.props["ANLSugarBeet"].numberOfVegetables2 = 0;
 end
+if (getActivatedMods():contains("LeGourmetRevolution")) then
+	farming_vegetableconf.props["ANLSugarBeet"].sheetropeRequired = 0;
+	farming_vegetableconf.props["ANLSugarBeet"].sticksRequired = 0;
+end
 
 farming_vegetableconf.sprite["ANLSugarBeet"] = {
 "anl_sugarbeet_0",
